@@ -1,6 +1,6 @@
 import ExpenseDate from "./ExpenseDate";
 import "./ExpenseItem.css";
-import Card from "./Card";
+import Card from "./../UI/Card";
 
 function ExpenseItem(props) {
   // You must have only ONE root HTML element in return statement as JSX expressions must have one parent element.
